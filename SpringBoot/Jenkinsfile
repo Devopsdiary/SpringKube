@@ -1,0 +1,1 @@
+bat 'mvn package'
